@@ -860,3 +860,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.23-04.59.56:386][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2021.07.23-04.59.56:575][  2]LogSlate: Took 0.019472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.07.23-04.59.56:786][  3]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.23-05.03.38:680][665]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.23-05.03.38:680][665]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Content: 'D:/UE4/UE_4.26/Engine/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:887][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.41:888][963]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.03.49:602][963]LogSlate: Window 'Submit Files' being destroyed
+[2021.07.23-05.04.11:801][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A/BP/HUD/Menu.Menu
+[2021.07.23-05.04.12:733][525]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.07.23-05.04.16:441][525]LogSlate: Took 0.045026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.23-05.04.32:233][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A/BP/HUD/Menu" FILE="../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/BP/HUD/Menu.uasset" SILENT=true
+[2021.07.23-05.04.32:470][172]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/MenuF8AD768649816056EE69E08F3479FC5A.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/BP/HUD/Menu.uasset'
+[2021.07.23-05.04.32:520][172]AssetCheck: New page: Asset Save: Menu
+[2021.07.23-05.04.32:520][172]LogContentValidation: Display: Validating WidgetBlueprint /Game/A/BP/HUD/Menu.Menu
+[2021.07.23-05.04.34:446][382]BlueprintLog: New page: Compile Menu
+[2021.07.23-05.04.34:600][382]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.07.23-05.04.35:916][485]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-05.04.35:927][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-05.04.35:969][485]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-05.04.35:969][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-05.04.38:964][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.07.23-05.04.39:024][753]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/FirstPersonExampleMap0FC1568548F84FD1235B2CBCE2C1B83A.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/maps-levels/FirstPersonExampleMap.umap'
+[2021.07.23-05.04.40:571][753]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/FirstPersonExampleMap_BuiltData1319B7E247DA0DC5CCCEA1822194F658.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/maps-levels/FirstPersonExampleMap_BuiltData.uasset'
+[2021.07.23-05.04.41:007][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.23-05.04.41:007][753]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/A/maps-levels/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.07.23-05.04.41:007][753]LogContentValidation: Display: Validating World /Game/A/maps-levels/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.23-05.04.42:222][869]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.07.23-05.04.47:668][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Content: 'D:/UE4/UE_4.26/Engine/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:668][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:668][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:668][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:668][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.47:669][403]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Unreal Projects/GeoJamMirrorGame — копия'
+[2021.07.23-05.04.48:314][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A/BP/HUD/Menu" FILE="../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/BP/HUD/Menu.uasset" SILENT=true
+[2021.07.23-05.04.48:332][403]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/Menu3E7B4E9E4A0E3EC0B98EEC8054B94C6B.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/BP/HUD/Menu.uasset'
+[2021.07.23-05.04.48:359][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.07.23-05.04.48:410][403]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/FirstPersonExampleMap002016CE495F47061F78AEA5D621082A.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/maps-levels/FirstPersonExampleMap.umap'
+[2021.07.23-05.04.48:423][403]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.090
+[2021.07.23-05.04.49:389][403]LogSavePackage: Moving '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Saved/FirstPersonExampleMap_BuiltData0E0DCA4C4A50AAC1301D6E921C82F52E.tmp' to '../../../../../Unreal Projects/GeoJamMirrorGame — копия/Content/A/maps-levels/FirstPersonExampleMap_BuiltData.uasset'
+[2021.07.23-05.05.09:535][403]LogSlate: Window 'Submit Files' being destroyed
+[2021.07.23-05.05.14:348][403]LogSourceControl: commit successful: [Features 8088eaa] 1
+[2021.07.23-05.05.14:514][403]SourceControl: [Features 8088eaa] 1
+[2021.07.23-05.05.14:514][403]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.07.23-05.05.14:519][403]SourceControl: Commited [Features 8088eaa] 1.
+[2021.07.23-05.05.14:573][404]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.23-05.05.14:573][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/A/maps-levels/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.07.23-05.05.14:574][404]LogContentValidation: Display: Validating World /Game/A/maps-levels/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.23-05.05.14:574][404]LogContentValidation: Display: Validating WidgetBlueprint /Game/A/BP/HUD/Menu.Menu
